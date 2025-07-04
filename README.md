@@ -13,6 +13,6 @@
 此外，避免过度依赖广告，保持内容和广告之间的平衡，确保用户体验不受影响。通过合法的渠道传播内容，增加外部链接，也能帮助提升网站的可信度和曝光度。
 通过这些方法，可以在合规的框架内有效提升关键词排名，同时保证网站长期稳定的发展。
 
-<span style="display:none;">[Canonical link](）</span>
+<span style="display:none;">[Canonical link](https://github.com/vv20250704/vv08 ）</span>
 
 
